@@ -19,7 +19,7 @@ const Navbar = ({click}) => {
                     </Link>
                 </li>
                 <li>
-                    <Link to='/cart'>
+                    <Link to='/'>
                         {/* icon */}
                         Shop
                     </Link>
